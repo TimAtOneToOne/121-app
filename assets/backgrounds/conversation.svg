@@ -1,0 +1,20 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="371" height="99.6471" viewBox="0 0 371 99.6471" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask Group" opacity="0.58">
+<mask id="mask0_0_99" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="371" height="100">
+<path id="Rectangle 4" d="M0 30C0 15.8579 0 8.7868 4.3934 4.3934C8.7868 0 15.8579 0 30 0H341C355.142 0 362.213 0 366.607 4.3934C371 8.7868 371 15.8579 371 30V69.647C371 83.7892 371 90.8603 366.607 95.2537C362.213 99.6471 355.142 99.6471 341 99.6471H30C15.8579 99.6471 8.7868 99.6471 4.3934 95.2537C0 90.8603 0 83.7892 0 69.6471V30Z" fill="url(#paint0_linear_0_99)"/>
+</mask>
+<g mask="url(#mask0_0_99)">
+<path id="Vector 1" opacity="0.15" d="M241.271 76.1582C196.654 73.8806 179.842 93.2406 177.013 103.205H426.771V4.26994C340.69 -13.5242 340.69 23.4876 337.052 43.417C333.415 63.3464 297.043 79.0053 241.271 76.1582Z" fill="url(#paint1_linear_0_99)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_99" x1="2.76417e-06" y1="49.8235" x2="371" y2="49.8235" gradientUnits="userSpaceOnUse">
+<stop stop-color="#25196B"/>
+<stop offset="1" stop-color="#94D9CD"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_99" x1="258.245" y1="29.8935" x2="285.53" y2="95.5072" gradientUnits="userSpaceOnUse">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

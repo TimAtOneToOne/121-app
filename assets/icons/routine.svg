@@ -1,0 +1,6 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon/stethoscope">
+<path id="stethoscope" d="M8.61538 4.92308V12.3077C8.61538 15.7538 11.3231 18.4615 14.7692 18.4615M14.7692 18.4615C18.2154 18.4615 20.9231 15.7538 20.9231 12.3077V4.92308M14.7692 18.4615V21.5385C14.7692 24.6154 17.2308 27.0769 20.3077 27.0769C23.3846 27.0769 25.8462 24.6154 25.8462 21.5385V19.0769M6.15385 4.92308H11.0769M18.4615 4.92308H23.3846" stroke="#004966" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="stethoscope_2" d="M28.9231 14.4615C28.9231 15.8154 27.8154 16.9231 26.4615 16.9231C25.1077 16.9231 24 15.8154 24 14.4615C24 13.1077 25.1077 12 26.4615 12C27.8154 12 28.9231 13.1077 28.9231 14.4615Z" stroke="#438808" stroke-width="1.78" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
